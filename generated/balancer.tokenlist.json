@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-03T15:03:55.689Z",
+    "timestamp": "2024-01-06T00:21:07.313Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6578,6 +6578,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22fc5a29bd3d6cce19a06f844019fd506fce4455.png"
         },
         {
+            "chainId": 1,
+            "address": "0x2156393EA1aF6Ed281C767A60555502CdDdFd97e",
+            "name": "Sparkbot",
+            "symbol": "SB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x26C0A99c12B16154C1D6a9774651491430FE638C",
+            "name": "BRCLauncher",
+            "symbol": "BRC",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -12046,6 +12060,13 @@
             "symbol": "aArbUSDCn",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/32847/large/usdc_%281%29.png?1699619355"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xdfa752ca3fF49d4B6dBE08E2d5a111f51773D395",
+            "name": "Balancer sFRAX/FRAX",
+            "symbol": "sFRAX/FRAX",
+            "decimals": 18
         },
         {
             "chainId": 43114,
